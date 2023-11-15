@@ -5,7 +5,7 @@
 <h1 align="center"> SpiderDoor </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-   <img alt=" SpiderDoor" title=" SpiderDoor" src="https://media.licdn.com/dms/image/C560BAQFcEfMiU7DorQ/company-logo_200_200/0/1631365214530?e=2147483647&v=beta&t=kTeR1E0XwQUKLiUEwjdlnViBI_Iil9GsGkiQK6685dA" width="350px" >
+   <img alt=" SpiderDoor" title=" SpiderDoor" src="https://www.sitelink.com/integrations/SpiderDoor_Banner.jpg" width="350px" >
   </a>
 </p>
 

@@ -70,7 +70,7 @@ SpiderDoor enables tenants to rent a new unit, pay for the rent monthly, and get
 
 Text Collector automates delinquent payment reminders via text, allowing prompt payments through unique URLs, while warehouse managers efficiently track and manage payments on a dashboard for streamlined storage operations.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446155-credit-handling.png" width="350px" >
+
 
 
 
@@ -79,14 +79,14 @@ Text Collector automates delinquent payment reminders via text, allowing prompt 
 
 SpiderDoor's success thrived through keypad integration, allowing access control and activity tracking while preventing delinquent entries via swift gate code changes synced with Text Collector reminders or app payments for instant access, facilitated by real-time balance updates via dedicated API calls.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
+
 
 
 ## SpiderAdmin
 
 was designed to support various admin roles. Admins can manage separate locations and groups of locations, change settings for mobile apps, send individual and group notifications to tenants, and view their Text Collector stats on a dashboard.
 
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446148-admin-panel.png" width="350px" >
+
 
 
 
